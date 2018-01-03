@@ -1,4 +1,6 @@
 #!/bin/bash
-#update debian
-apt-get update -y
-apt-get install -y
+apt update
+apt upgrade -y
+apt -y autoremove
+apt clean -y
+
