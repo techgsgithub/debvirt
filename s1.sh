@@ -1,4 +1,4 @@
 #!/bin/bash
 #update debian
-apt update -y
-apt install -y
+apt-get update -y
+apt-get install -y
