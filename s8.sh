@@ -1,2 +1,2 @@
-#!/bin/bash
+#!/bin/bash 
 pvecm add srv1
